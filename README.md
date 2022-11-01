@@ -19,4 +19,4 @@
 4. Work through the list of issues to increase the score till you get to 100! There are helpful links on each listed issue to help guide you. 
 5. Feel free to add some css to make the site look pretty (you can even replace the picture if you're not fond of cats).
 
-**Good luck and have fun! ** :grin:
+**Good luck and have fun!** :grin:
